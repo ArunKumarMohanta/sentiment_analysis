@@ -55,8 +55,7 @@ This project provides an in-depth analysis of **YouTube videos** by evaluating t
 ## Usage  
 
 1. **Get YouTube Data API Key** (see [API Setup](#api-setup)).  
-2. **Run the main script**:  
-  yt_analysis_ver2.0.py
+2. **Run the main script**:  yt_analysis_ver2.0.py
 3. When prompted, **enter a valid YouTube video link**.  
 4. The program will:  
    - Extract viewer comments and the creator’s content (title, tags, description, and transcript).
