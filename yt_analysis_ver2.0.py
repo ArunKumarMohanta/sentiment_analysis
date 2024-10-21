@@ -14,8 +14,8 @@ api_version = "v3"
 DEVELOPER_KEY = "Enter Your Developer API Key"
 ''' 
 You can get developer key from google cloud console
-or
-refer to the [How to extract YouTube Comments Using the YouTube API] by [Analytics with Adam] YouTube Video
+OR
+Refer to the [How to extract YouTube Comments Using the YouTube API] by [Analytics with Adam] YouTube Video
 '''
 youtube = googleapiclient.discovery.build(
         api_service_name, api_version, developerKey=DEVELOPER_KEY)
