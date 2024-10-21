@@ -12,7 +12,12 @@ from nltk.tokenize import word_tokenize
 from youtube_transcript_api import YouTubeTranscriptApi
 api_service_name = "youtube"
 api_version = "v3"
-DEVELOPER_KEY = "AIzaSyDhrhGBGYGk1qCkYfqSb3duMM3-bjt9OCk"
+DEVELOPER_KEY = "Enter Your Developer API Key"
+''' 
+You can get developer key from google cloud console
+or
+refer to the [How to extract YouTube Comments Using the YouTube API] by [Analytics with Adam] YouTube Video
+'''
 def extract_video_id(url):
     # Check if the URL is a short YouTube link
     if "youtu.be/" in url:
