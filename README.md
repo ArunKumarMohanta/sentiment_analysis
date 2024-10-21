@@ -70,8 +70,12 @@ sentiment_analysis/
 
 ## Screenshots 
 Viewers' Emotion:
+
 ![graph_viewers'](https://github.com/user-attachments/assets/0a54c6a8-c175-4d81-9d8f-f926e2ef1e50)
+
+
 Creator's Emotions:
+
 ![image](https://github.com/user-attachments/assets/8282430d-9612-410c-ae19-a104da98ff76)
 
 
