@@ -59,7 +59,7 @@ This project provides an in-depth analysis of **YouTube videos** by evaluating t
 ## Project Structure  
 sentiment_analysis/  
 │  
-├── main.py               # Main Python script  
+├── yt_analysis_ver2.0.py # Main Python script  
 ├── requirements.txt      # Required Python packages  
 ├── emotion.txt           # List of emotion words and their labels  
 ├── read.txt              # File storing extracted viewer comments  
