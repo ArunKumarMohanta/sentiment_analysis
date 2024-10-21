@@ -39,10 +39,18 @@ This project provides an in-depth analysis of **YouTube videos** by evaluating t
 4. **Download NLTK resources**:  
    Open a Python shell and run the following:
    import nltk
+   
    nltk.download('vader_lexicon')
+   
    nltk.download('punkt')
+   
    nltk.download('wordnet')
+   
    nltk.download('stopwords')
+5. **Run the project:**
+   
+   yt_analysis_ver2.0.py
+   
 
 ## Usage  
 
