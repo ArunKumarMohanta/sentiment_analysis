@@ -41,12 +41,17 @@ The YouTube Emotion Analyzer is a tool designed to extract and analyze emotions 
 
 ## Technologies Used
 
--Python: Core programming language
--YouTube Data API: For fetching video data and comments
--NLTK (Natural Language Toolkit): For sentiment and emotion analysis
--Tkinter / CustomTkinter: GUI framework for the desktop interface
--Matplotlib: For visualizing emotion graphs
--Pillow: For handling images in the GUI
+- Python: Core programming language
+
+- YouTube Data API: For fetching video data and comments
+
+- NLTK (Natural Language Toolkit): For sentiment and emotion analysis
+
+- Tkinter / CustomTkinter: GUI framework for the desktop interface
+
+- Matplotlib: For visualizing emotion graphs
+
+- Pillow: For handling images in the GUI
 
 ## Installation  
 
@@ -144,7 +149,7 @@ sentiment_analysis/
 ├── graph_creators.png    # Image of the graph for creators' emotions.
 ├── requirements.txt      # List of Python dependencies required for the project.
 ├── icon.ico              # YouTube Icon image for GUI window
-└── README.md             # Project documentation  
+└── README.md/             # Project documentation  
 
 ## Screenshots 
 
