@@ -1,0 +1,510 @@
+it works on my machine, but not on another machine
+Thank you for your great video and now every thing is working on my pc but the problem is when I try it on any other pc I get an error in opening the connection to the mysql database: &quot;mysql.connector.errors.InterfaceError: 2003: can&#39;t connect to MySQL server on localhost: 3306(10061 Aucune connexion n&#39;a pu établie car l&#39;ordinateur cible l&#39;a expressément refusée)&quot;. So why I get this error in any other PC but I don&#39;t get it in mine and how to fix it
+First time hearing Windows 62 version!
+cx_Freeze.common.ConfigError: cannot find file/directory named new_project <br><br>please help me sir...
+Thank you very much!! Have been stucked with compiling for half of the day, trying to use pyinstaller, but it doesn&#39;t work fine for me + created exe triggers warnings about virus in it from my antivirus programm. And with cx_Freeze I&#39;ve compile a functional executable, however I have another code module imported in my Tkinter GUI and it doesn&#39;t work, but I sure I&#39;ll find a solution. Thank you again for this great video!
+I tried to install that in a standalone pc but unfortunately it doesnt work.<br>It only works if you have python/pycharm on your pc.<br>What i am doing wrong?
+In my win 10 system, it working superbly fine. But in windows 7, the same exe file shows api-ms-win-core-path-l1-1-0-dll file missing error. Please help .
+Thank you very much ❤❤❤❤❤❤❤❤<br>Lots of love for you❤❤❤❤❤❤
+I don&#39;t know how but mine work in one go (&quot;Cx_freeze verison was 6.6&quot;) without any error. But just need to put image folder in same dir of .exe file and HURRAYY!!! xD
+Thanks bro, it works very good.
+good bro
+Creating end user application from Python is the most insane thing I know of. People should be told that before they start to learn this language, that is &quot;well structured&quot;, &quot;intuitive&quot;, but is actually almost impossible to turn into a working final app.
+sou br hello guys
+Hi ,<br>I am getting this error. Module &#39;zmq&#39; has no attribute &#39;libzmq&#39;
+Thanks man! U helped me a lot
+i had 3 python files i want to build .exe file with pyinstaller it&#39;s crating .exe file while i open it&#39;s not doing anything but if i run that code it will working on venv . and application designed with pyqt5.
+Thank you!
+thank you man<br>you just made my day &lt;3
+u know i have tried to convert my python file to .exe files along time age i have disapointed because my fill everytime and after that vedio i did it and learn how to solve proplesm..thnx
+thank u very much u saved my life
+You literally stopped me from suicide. Your space invaders video was my first intro to pygame. i made my own game and was trying to make it into exe with  no progress. But you were the one who was able to do that. you helped me with my first and last step
+Thanks bro. It solved _MEI folder problem created by pyinstaller. Thanks a lot.
+Hi! How to build trial version with constrain time?
+Thanku you so much... it helps me alot...👍😁 u r did great🤘😊
+@buildwithpython when I click my &#39;filename.exe&#39; my window disappears immediately. I think the root.mainloop() line of code is looping through once and then stopping. Any idea why this may be happening?
+Use pyinstaller
+How do I fix this error? File &quot;<a href="http://setup.py/">setup.py</a>&quot;, line 9
+ base = None SyntaxError: invalid syntax (There&#39;s an arrow pointing up on the e of the word base.)
+Damn It Worked!!!
+I am receiving error tkinter not found even though i have removed this part  &quot;excludes&quot;: [&quot;tkinter&quot;]
+no forward button? wonder why...Also, once you make your .py an .exe and you want to add something to the .py, will it reflect on the .exe? or will you have to redo this whole process again?
+Tysm for this amazing project...but 1 problem MP3 songs is not playing it&#39;s showing error
+Bro I converted Py to exe but while double clicking module not found named tkinter error I got. Any suggestions please
+how can we add permanently songs in the playlist. So that when we start our app again we can have the playlist which we have created before
+Hi, it seems a bit easier with pyinstaller, can you make a small edition with it ?
+Salute you man &lt;3, I never ever see any teacher like you in my life &lt;3
+Man i learnt so much from you! Dhonnobad! well... the Cx_Freeze worked the first time for me... i dunno i should be happy or worried! lol!
+Thanks it worked very well without any error
+Is it possible for program written .py on a windows when converted to an .exe file work on a Mac OS
+I&#39;m trying to build CanFestival\objdictgen\<a href="http://objdictedit.py/">objdictedit.py</a> which uses &#39;wx&#39;, there&#39;s no errors, but double-clicking the exe doesn&#39;t open the application.   How can I find what&#39;s missing?
+this worked for me. I fought pyinstaller ALL DAY with no progress. This worked the first try....Thank you! lol
+Your English is very good, and the tutorial was very understandable!
+Hello Bhai, While installing cx_Freeze in Linux(Ubuntu) - I am getting lot of errors.
+In this video you will know every thing how to convert python file into a fully working installable app like a software by which any one can install it and use your software<br><a href="https://www.youtube.com/playlist?list=PLS4zv4KDAagPblw0Tc8gxMBUNrv5VNJC7">https://www.youtube.com/playlist?list=PLS4zv4KDAagPblw0Tc8gxMBUNrv5VNJC7</a>
+Thanks. Did not get a single error.<br>It did take a lot of files and space for the smallest of programs.<br><br>Maybe there is a better way out there but at least this one works.
+I cannot fix that, all the time that kind of error:<br>   error during GetDependentFiles() of &quot;C:\Users\directory......\libssl-1_1-x64.dll&quot;<br><br><br>Do you have any ideas how to fix it?
+I have this error, someone could help me please??<br><a href="https://imgur.com/iVpMGV4">https://imgur.com/iVpMGV4</a>
+شكرا لك يا صديقى :)
+Great course. Can you help me in fixing the  .dll issue as I am not able to generate the correct .exe file. Gone through your procedure but its still throwing error of module not found.
+I don&#39;t know why but I have not got any errors and thats the best part. <br>I got my .exe file at once<br><br>Thank you buddy!
+When installing ck_ freeze, it showing error that does not exist<br><br>Proposed solution:<br>   Make sure that you use the correct version of &#39;pip&#39; installed in  your python interpreter<br><br>This is wat the error showing... wat to do? Please help
+man, i dont speak engleash but thanks for this video i know how do now
+when i run main.exe nothing happens, the gui doesn&#39;t run and does not show any error, i don&#39;t know what is wrong. Even when i copied your code, images from github then also this problem wasn&#39;t solved
+Command &quot;&quot;C:\Users\IIS 3\AppData\Local\Programs\Python\Python37-32\python.exe&quot; -u -c &quot;import setuptools, tokenize;__file__=&#39;C:\\Users\\IIS3~1\\AppData\\Local\\Temp\\pip-install-vh0y3d1r\\cx-Freeze\\setup.py&#39;;f=getattr(tokenize, &#39;open&#39;, open)(__file__);code=f.read().replace(&#39;\r\n&#39;, &#39;\n&#39;);f.close();exec(compile(code, __file__, &#39;exec&#39;))&quot; install --record C:\Users\IIS3~1\AppData\Local\Temp\pip-record-iemzj7g2\install-record.txt --single-version-externally-managed --compile&quot; failed with error code 1 in C:\Users\IIS3~1\AppData\Local\Temp\pip-install-vh0y3d1r\cx-Freeze\
+God Bless you, amazing tutorials, would not have been able to finish my tkinter project without you!
+thanks man
+hlow sir,,i am facing some problem during installing the package cx_<a href="http://freeze.it/">freeze.it</a> shows&quot;_ Could not find a version that satisfies the requirement cx_Freeze (from versions: )
+<br>No matching distribution found for cx_Freeze
+_<br>&quot;.....please help me.
+Sir, Great I bother last 3 days now my problem is solved Thanks Bro. You are great.
+Thank you so much, my man, I watched like 10000000 tutorials and this is the only one that works!!!!
+Cx_FREEZE  doesn&#39;t work with me :( can you upload another video how to make py to exe in the same projector..tnx
+Thanks a lot ...At last  i make it exe.
+Hello brother,<br>                       I am currently using Linux and not able to install cx_Freeze from the Settings , Interpreter option. Can you tell me the alternate way to do it?
+Hey I&#39;m not able to install cx_freeze in python 3.7.<br>Can you suggest me a way out to convert .py to .exe in python 3.7?
+i have converted the .py into .exe without any error but when i opening .exe file then nothing happens ... it not showing any error and neither opening the application
+
+title
+Converting python to executables using cx_freeze - 29/30 #tkinter30
+
+tags
+tkinter
+tk
+gui
+py
+exe
+cx_freeze
+executable
+Python (Programming Language)
+Tkinter
+Graphical User Interface(Industry)
+beginners
+buildwithpython
+3.7
+google
+windows
+classes
+advanced
+absolute
+language
+lesson
+learn
+how
+to
+free
+download
+intro
+introduction
+lectures
+class
+classroom
+youtube
+
+description
+Day 29 - In this video we convert the .py files to .exe files using the package cx_freeze (for python 3.6+)
+
+Complete Playlist - https://www.youtube.com/playlist?list=PLhTjy8cBISEp6lNKUO3iwbB1DKAkRwutl
+
+Source Code - https://github.com/attreyabhatt/Python-Music-Player
+Subscribe - https://www.youtube.com/channel/UCirPbvoHzD78Lnyll6YYUpg?sub_confirmation=1
+Website - www.buildwithpython.com
+Instagram - http://instagram.com/buildwithpython
+
+#tkinter #python #tkinter30
+
+Fetching subtitles in English (auto-generated) (en)...
+alright guys welcome back to day 29 this
+is the second last day and I'm really
+excited about today because we are going
+to be handling a problem that a lot of
+Python developers like you know just
+throw up their arms - they're like I
+can't do it I just can't convert a
+Python file to an executable file so
+what we are doing in this video is we
+are converting this dot by extension to
+dot exe extension which you must have
+seen with a lot of software's whenever
+you install a software it has dot
+executable extension that is dot exe and
+you don't need a python compiler to
+actually run this main dot pi file so
+how are you going to do that we are
+gonna use a package known as CX freeze
+so why are we gonna use 6 freeze is
+because that's the one I know and it's
+very very popular like another one is PI
+to exe if you want to let me just Google
+that for you so that you guys know the
+other one is PI to exe you can also use
+that I'm not gonna go into that I'm
+gonna go into the CX freeze let me just
+write that in CX freeze so I'm gonna be
+using this one let's actually check out
+their github page so what were you gonna
+do is let me actually just read it to
+you so 6 freeze setup screens for
+freezing python scripts into executables
+which we want it supports Python 2.7 or
+higher we are using Python 3.6 now
+before we actually get into it I want to
+tell you that CX freeze has a lot of
+problems like just like PI to XC it is a
+lot of problems and we are using Python
+3.6 so I'm going to go across all the
+problems that you might get in Python
+3.6 but let's say you are using this or
+watching this video when Python maybe 4
+has released or 4.5 has released so I
+won't show you how actually how to like
+step by step how to do it but I'm going
+to show you how to create an executable
+file by solving all the problems in
+front of you because I'll be honest with
+you I'm kind of winging this video and I
+know a little bit about CX freeze and I
+have an idea what to do but I'm not like
+I still don't have a very concrete idea
+what I'm about to do so that's why you
+are going to learn how to actually solve
+problems while you are
+hauling a package and python on if
+something gives you an error how to you
+know this problem solve so the first
+thing obviously we're gonna do is
+install CX crease which is the most
+easiest part by this time you probably
+already know what we are going to do we
+are going to go to the settings
+interpreter click on this plus icon if
+you are using anything else not PyCharm
+just pip install snakes please actually
+they have given the PIP install command
+over here you can just use this but if
+you are using pycharm you can just type
+in CX and ESCO freeze and just install
+this instead uh and just and just
+mumbling or remembers I don't know why
+anyway just click on install package and
+I won't go like I want to install it
+because I have already installed as you
+can see CX freeze 5.1.1 and after
+installing it let's check out the
+documentation what the documentation has
+to say about the CX underscore freeze
+and how are we actually supposed to use
+it so let's open this up and let's go to
+using CX freeze
+so it says include the six free script
+which you have already installed and
+then it says you can make a simple
+Windows installer using a setup script
+so you have to create a setup script
+so let's actually check out this setup
+script what it is so it says this is the
+setup script so what we are going to do
+is you can just read all of it but I
+only read through it so what it
+basically means is you have to create a
+new Python file so I'm just gonna create
+a new python file and you can call it
+and you have to call it setup dot pi
+because you can see it's written over
+here set up dot pi so we can just call
+it set up
+dot bye press ENTER and then we can just
+copy this code that they have given so
+we can just copy it from here and paste
+it inside a set up dot pipe
+it says imports s inputs CX fries and
+executable all kind of stuff and it says
+to exclude quinta and not include Kinta
+but we won't actually in cout include
+Kinta and not exclude it so we are going
+to remove this one from here let's move
+this and say applications require
+windows so what this basically these
+three line does is that if you are using
+a older version of Windows it makes sure
+so this is kind of to differentiate
+between the windows 62 bit version and
+Windows 32 bit version if your windows
+is Windows 32 bit version it kind of
+changes the variable of this basically
+content of this based variable you don't
+need to worry about it just understand
+that if your windows is of 32-bit then
+it basically stores a new value inside
+this based variable and then this is the
+name of your application we are going to
+change it to melody melody worry and
+this is our zero point one version the
+description is let's call it music music
+player all right and executables our
+main dot pipe so we are going to change
+it to mean dot pi because we want this
+file to be converted into an exe file
+that's why we have called it mean dot pi
+which is the name of a main executable
+file all right so now what we have to do
+is according to our instructions we have
+to just invoke this script this is
+Python setup dot v dot build how do you
+do it in pycharm it's very easy just
+open up the terminal and in terminal you
+can just type in dir to check out if you
+are in the right directory or not as you
+can see we are in the right directory
+which is my desktop and over here it's
+say is main dot pipe so it's pretty easy
+that basically means that we are in the
+right directory and now we can just
+watch this statement will say is Python
+set up dot PI dot build so we are going
+to try that out
+setup dot pi and build and press
+enter.now this won't work I already know
+this won't work because it's going to
+throw us some error with CX please it's
+never this easy alright they're always
+going to be some kind of error so now
+you can see it throws us an error which
+says key error TCL library so what
+should I do in this kind of condition
+what I'm gonna do is I'm just gonna copy
+this and paste it on Google and see what
+pops up so that's that's how you do
+error handling right whenever you have
+some kind of error you just kind of copy
+it and paste it on Google so I'm just
+gonna go to Google let's type in Google
+and I'm gonna paste this okay so there
+is first let's say is kierra TCL library
+when I use CX please which is perfect
+this is what we need and if you scroll
+down it stays you can work around this
+error by setting the environment
+variables manually you can also do this
+inside of dot pi script or another one
+which i found was this one which was
+working really well for me so I'm just
+going to copy this one we are just gonna
+import this OS first so let's copy it
+over here and then I'm going to copy the
+rest of the files let's copy this from
+here and copy is this over here
+alright so now it says after this after
+this fix the executable file will be
+created but we'll probably get a DLL not
+found error so now what I want you to do
+is I want you to just enter this command
+again and press Enter
+alright and then it will actually form a
+exe file for you so if you go back to
+your project folder there will be a
+folder over here wherever you are
+creating your project all right there
+will be a folder over here which will be
+called build and then when you go inside
+it there will be an exe file and when
+you double-click on it actually it will
+throw an error which will say that hey
+the dll not found error will be there
+alright which this this basically
+statement is already telling us so what
+it is saying is hey just add this thing
+again and it will make sure that you
+don't get any errors so I'm just going
+to copy this and I'm going to paste this
+again
+maybe somewhere where should I paste it
+maybe somewhere over here pasted all
+right
+and now let's build our basically up
+main dot by file and see if it works
+spoiler alert it still probably won't
+work but I am Not sure so let's just
+I'll just be quiet and let it run for
+some time because it might require some
+time to create the executable files
+alright so it has done executing and
+creating our exe file so let's go back
+and as you can see it has created this
+folder called build if we double click
+on it and then we click on this main dot
+exe file and it's weight and it gives us
+an error which still says import error
+DLL load failed the specified model
+could not be found so what is happening
+over here is that it said key when the
+necessary dll files will be copied
+automatically which means the dll files
+were not copied automatically in our
+folder that's why we'll have to do it
+kind of manually so what we are gonna do
+is we can just go to our maybe somewhere
+over here and we'll find the files that
+we need so over here you can see these
+two files are being copied to our
+project but using this automatic import
+option statement it's not being actually
+copied so we need to copy both these
+files so what we gonna do is we are
+gonna just copy this maybe from not just
+copy this we are just gonna go to our
+project and this is the place where your
+Python is actually installed and all the
+these files of TK 8.6 exist so I just
+want to go to this path so I'm just
+going to copy this you can copy our own
+path and don't copy mine and I'm just
+gonna go to my Windows and I'm just
+gonna paste this maybe I create another
+window so what you can do is you can
+just paste this over here somewhere and
+press ENTER and so now we are inside our
+DLL files so now what we want the
+filenames that you want are TK 80 60 and
+PCL 80 60 dot DL n so first obviously we
+will go to TCL and we'll find out
+that hey there are files known as TCL 80
+60 and TCL it is 16 TK 2 60 . live but
+these are the files not we don't want
+because they have dot li b extension and
+if you focus over here it says dot DLL
+so we'll have to find them somewhere
+else so what I did was I just went to
+search and kind of entered their names
+but we wanted DLL so properly you can
+find them inside this DLL folder and now
+we can go to P let's see and these are
+the two files that we want so we can
+just copy them from here and paste them
+inside our melody project folder let's
+paste this over here alright and now we
+have these two DLL files so now we don't
+need to include them over here but what
+we can do is to include both of these
+files we can somewhere maybe right over
+here how do we include the files alright
+so that let me just go to google because
+we don't know how to include files
+inside our CX free set up dot IO file
+right so how do we include files
+actually they have given it over here
+you can just write this kind of a thing
+and it will include files so let me just
+copy this from here and in build exe
+options we can just write comma and then
+include files and then we are going to
+just gonna put put in the file names
+these two file names so the first file
+name is TCL 86 it is sixty dot DLL
+alright and the second file name is it t
+tkt sixty okay eighty sixty dot DL uh
+okay this also requires codes
+alright so now is gonna include both of
+these files inside our project folder
+which we bought alright so now we are
+gonna just do it again but before that
+let me just go back and delete the build
+folder that we created before so let
+let's go to our melody project and
+delete these this bread folder it's
+gonna just delete everything so that it
+doesn't kind of overwrite it shouldn't
+be a problem I just don't want any
+problem to happen
+and now we can just dry it down Python
+certified build again and let's just
+wait again to make sure that it builds
+properly all right so our build has
+completed so let's go back to our build
+and let's double click on main dot exe
+and again it will give us an error if
+I'm not wrong I might be wrong who knows
+wait a minute what happened okay so the
+bill hasn't hadn't completed yet now we
+double-click on it and it gives us an
+error which says images slash milli dot
+ICO not defined so what has happened is
+that when we compile this all of this
+together these images were not compiled
+inside our project so one thing that we
+can do is actually move one-by-one and
+write images slash and then the image
+name mail it maybe melody dot ICO
+and stuff because as you can see in the
+Edit first it is isn't able to find
+melody dot ICO and that means it won't
+be even be able to find any of these
+images so even if we include melody dot
+ICO again then it's going to give us an
+error that is not able to find mu dot
+PNG or something else so what we can do
+instead of writing and including
+everything over here what we can do is
+we can just manually just include them
+inside our project so we can just copy
+this and paste this over here and now if
+we execute our main dot exe file this
+should run properly so let's see if it
+runs or not all right so now we have
+successfully created our executable file
+congratulations guys I think we are
+pretty much done let's just once see if
+it's working properly or not we are just
+going to add this journey dot wave is
+kind of nostalgic because you started
+our project with this one small wave
+file and we still have it by the end of
+this lecture day on day 29 is crazy now
+we can just play it
+all right so our music player is working
+mute button is working everything is
+working properly alright guys so this is
+pretty much it for day 29 and we are
+done with most of the things that we
+have done alright I just want to give
+you a recap what we did in this video
+installing CX freeze is not the
+highlight of this video that is the
+highlight of this video is how to handle
+problems properly when you get when you
+install a new package or you have some
+kind of problems you just go to Google
+you kind of like struck a little bit
+don't give it don't give up
+alright now I've told you how to use the
+X freeze in Python 3.6 and it should
+work in other pythons version also three
+point four three point five but if it
+doesn't work by any chance don't give up
+and just try out something else and if
+you are not able to do it just contact
+me I will help you out so anyways guys
+this is pretty much it for this video in
+the next video we are going to be just
+kind of like recapping what we have done
+it because it has been a very very long
+journey so I just want to recap what we
+have done in the last 30 days and and I
+just want to conclude with what else can
+you learn in Intel and way to take your
+these skills that you have learned and
+how to implement them in a practical
+world and just don't keep on taking
+other courses or I just just don't keep
+on watching other videos because this
+this 30-day thing that you have done is
+already enough to make sure you can
+build any GUI in this world now you
+won't be needing anything else if you
+only use a little bit of your creative
+mind and maybe used Stack Overflow a
+little bit you'll be able to create
+anything in this world but anyways I'm
+just getting too much into it I want to
+get it in the next video so yeah I'll
+see you on day 30 the last day pizza
