@@ -136,6 +136,7 @@ The results will display the overall tone (e.g., Happy, Sad, Positive) and corre
 ## Project Structure  
 sentiment_analysis/  
 │  
+
 ├── Modulated1.py         # Contains the core logic for data extraction, preprocessing, emotion analysis, and sentiment analysis.
 
 ├── MAIN_APP.PY           # Contains the GUI implementation using customtkinter.
