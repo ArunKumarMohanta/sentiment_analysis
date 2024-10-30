@@ -137,19 +137,33 @@ The results will display the overall tone (e.g., Happy, Sad, Positive) and corre
 sentiment_analysis/  
 │  
 ├── Modulated1.py         # Contains the core logic for data extraction, preprocessing, emotion analysis, and sentiment analysis.
+
 ├── MAIN_APP.PY           # Contains the GUI implementation using customtkinter.
+
 ├── emotion.txt           # Lexicon file containing word-emotion associations. 
+
 ├── button_image.png      # Image for the analyze button in the GUI.
+
 ├── view.png              # Image for the button to view viewers' comments.
+
 ├── content.png           # Image for the button to view creators' data. 
+
 ├── read.txt              # File containing the viewers' comments.
+
 ├── read1.txt             # File containing the creators' data.
+
 ├── combined.txt          # File containing the combined data of viewers' comments and creators' data.
+
 ├── graph_viewers.png     # Image of the graph for viewers' emotions.
+
 ├── graph_creators.png    # Image of the graph for creators' emotions.
+
 ├── requirements.txt      # List of Python dependencies required for the project.
-├── icon.ico              # YouTube Icon image for GUI window
-└── README.md/             # Project documentation  
+
+├── icon.ico              # YouTube Icon image for GUI window.
+
+└── README.md             # Project documentation .
+
 
 ## Screenshots 
 
