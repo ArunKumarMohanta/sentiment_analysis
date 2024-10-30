@@ -33,12 +33,12 @@ This project analyzes the sentiments and emotions of both content creators and v
 
 ## Technologies Used
 
-Python: Core programming language
-YouTube Data API: For fetching video data and comments
-NLTK (Natural Language Toolkit): For sentiment and emotion analysis
-Tkinter / CustomTkinter: GUI framework for the desktop interface
-Matplotlib: For visualizing emotion graphs
-Pillow: For handling images in the GUI
+-Python: Core programming language
+-YouTube Data API: For fetching video data and comments
+-NLTK (Natural Language Toolkit): For sentiment and emotion analysis
+-Tkinter / CustomTkinter: GUI framework for the desktop interface
+-Matplotlib: For visualizing emotion graphs
+-Pillow: For handling images in the GUI
 
 ## Installation  
 
