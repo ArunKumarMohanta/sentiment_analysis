@@ -17,7 +17,7 @@ This project analyzes the sentiments and emotions of both content creators and v
 - [Milestones](#milestones)
 - [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgements](#acknowledgements)
+- [Acknowledgments](#acknowledgments)
 - [Contact](#contact)
 
 
