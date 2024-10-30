@@ -1,10 +1,11 @@
 ---
 
-# YouTube Video Sentiment and Emotion Analysis  
+#  YouTube Emotion Analyzer
 
 This project analyzes the sentiments and emotions of both content creators and viewers by examining various components of a YouTube video, such as comments, video title, description, tags, and transcript. It uses the YouTube Data API and Natural Language Toolkit (NLTK) to extract and process emotional and sentiment data. The analysis results are displayed with an intuitive GUI built using customtkinter, providing graphical visualizations for insights.
 
-## Table of Contents  
+## Table of Contents
+- [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
@@ -18,9 +19,16 @@ This project analyzes the sentiments and emotions of both content creators and v
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
+
+
+
+## Introduction
+
+The YouTube Emotion Analyzer is a tool designed to extract and analyze emotions from YouTube video comments and creator data. This tool can help content creators, teachers, and organizations understand the emotional responses of their audience, thereby improving content quality and audience engagement.
   
 
-## Features  
+## Features 
+
 - **Extract Video ID**: Automatically parses the YouTube video URL to get the video ID.  
 - **Viewers' Sentiment Analysis**: Analyzes top-level comments on the video and detects the viewers' sentiment using NLP.  
 - **Creator's Content Analysis**: Analyzes the video title, description, tags, and transcripts (if available).  
@@ -71,14 +79,23 @@ This project analyzes the sentiments and emotions of both content creators and v
 
 
 ## Dependencies  
+
 - Python 3.x (I have used 3.10.8)
+  
 - google-api-python-client==2.55.0: Used to interact with the YouTube Data API.
+  
 - google-auth==2.6.0: Used for authentication with Google services.
+  
 - matplotlib==3.5.1: Used for plotting graphs.
+  
 - nltk==3.6.2: Used for natural language processing tasks, including tokenization, stop word removal, and sentiment analysis.
+  
 - customtkinter==4.0.0: Used to create a modern and customizable GUI.
+  
 - Pillow==8.3.2: Used for handling image files, particularly for the GUI buttons.
+  
 - youtube-transcript-api==0.5.0: Used to fetch video subtitles.
+  
 
 ## API Setup  
 
