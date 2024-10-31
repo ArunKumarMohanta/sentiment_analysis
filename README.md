@@ -12,7 +12,10 @@ This project analyzes the sentiments and emotions of both content creators and v
 - [Dependencies](#dependencies)  
 - [API Setup](#api-setup)  
 - [Usage](#usage)  
-- [Project Structure](#project-structure)  
+- [Project Structure](#project-structure)
+- [Introductory Emotion & Sentiment Analysis Files](#introductory-emotion-&-sentiment-analysis-files)
+   1.[Basic_Emotion_Analysis.py](#Basic_Emotion_Analysis.py)
+   2.[Emotion_and_Sentiment_Analysis](#Emotion_and_Sentiment_Analysis.py)
 - [Screenshots](#screenshots)
 - [Milestones](#milestones)
 - [Contributing](#contributing)
@@ -130,6 +133,34 @@ MAIN_APP.py
 The results will display the overall tone (e.g., Happy, Sad, Positive) and corresponding graphs for both creators and viewers.
 
 
+## Introductory Emotion & Sentiment Analysis Files
+
+
+Here's a draft for the "Introductory Emotion & Sentiment Analysis Files" section:
+
+**Introductory Emotion & Sentiment Analysis Files**
+For users interested in understanding the foundational steps of this project, we've included two introductory files that demonstrate basic techniques in text processing, emotion analysis, and sentiment analysis. These files are excellent starting points for those looking to build from scratch.
+
+## Basic_Emotion_Analysis.py
+This file provides a simple, step-by-step approach to:
+
+**Text cleaning**: Lowercasing, removing punctuation, and tokenizing words.
+Stop word removal: Excluding common words that don't contribute meaning (e.g., "and," "the").
+Emotion detection: Using the emotion.txt dataset to identify and count emotions expressed in the text.
+Visualization: Creating a bar graph to visualize the frequency of each detected emotion.
+It is a good entry point to understand how to clean and analyze text data for emotional content.
+
+## Emotion_and_Sentiment_Analysis.py
+Building on the first file, this version adds more advanced steps:
+
+**Lemmatization**: Reducing words to their base forms (e.g., "better" to "good").
+Sentiment analysis: Using the VADER Sentiment Intensity Analyzer to evaluate the overall sentiment (positive, negative, or neutral) of the text.
+Visualization: Similar to the basic file, it visualizes the frequency of detected emotions.
+This file offers a transition toward integrating both emotion and sentiment analysis into a more complex workflow.
+
+**Next Steps**: Once you've explored these introductory files, you can proceed to the main YouTube Video Analyzer script (Modulated1.py) for a more comprehensive application, where these techniques are applied to analyze YouTube video content.
+
+
 ## Project Structure  
 sentiment_analysis/  
 │  
@@ -159,6 +190,10 @@ sentiment_analysis/
 ├── requirements.txt      # List of Python dependencies required for the project.
 
 ├── icon.ico              # YouTube Icon image for GUI window.
+
+├── Basic_Emotion_Analysis.py  # Covers basic text cleaning, tokenization, and emotion analysis using the emotion.txt dataset.
+
+├── Emotion_and_Sentiment_Analysis.py  # Builds on the basic file, introducing lemmatization, advanced tokenization, and a simple sentiment analysis using VADER.
 
 └── README.md             # Project documentation .
 
