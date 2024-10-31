@@ -14,8 +14,11 @@ This project analyzes the sentiments and emotions of both content creators and v
 - [Usage](#usage)  
 - [Project Structure](#project-structure)
 - [Introductory Emotion & Sentiment Analysis Files](#introductory-emotion-&-sentiment-analysis-files)
+  
    1.[Basic_Emotion_Analysis.py](#Basic_Emotion_Analysis.py)
+  
    2.[Emotion_and_Sentiment_Analysis](#Emotion_and_Sentiment_Analysis.py)
+  
 - [Screenshots](#screenshots)
 - [Milestones](#milestones)
 - [Contributing](#contributing)
