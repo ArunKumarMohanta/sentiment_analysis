@@ -117,9 +117,6 @@ The YouTube Emotion Analyzer is a tool designed to extract and analyze emotions 
 **Running the Application**
 
 1. Run the GUI:
-
-Copy code:
-
 MAIN_APP.py
 
 3. Enter the YouTube video URL in the input box.
