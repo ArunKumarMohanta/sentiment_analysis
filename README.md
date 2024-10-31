@@ -13,11 +13,11 @@ This project analyzes the sentiments and emotions of both content creators and v
 - [API Setup](#api-setup)  
 - [Usage](#usage)  
 - [Project Structure](#project-structure)
-- [Introductory Emotion & Sentiment Analysis Files](#introductory-emotion-&-sentiment-analysis-files)
+- [Introductory Emotion & Sentiment Analysis Files](#introductory-emotion-and-sentiment-analysis-files)
   
-   1.[Basic_Emotion_Analysis.py](#Basic_Emotion_Analysis.py)
+   1.[Basic_Emotion_Analysis.py](#basic_emotion_analysis.py)
   
-   2.[Emotion_and_Sentiment_Analysis](#Emotion_and_Sentiment_Analysis.py)
+   2.[Emotion_and_Sentiment_Analysis](#emotion_and_sentiment_analysis.py)
   
 - [Screenshots](#screenshots)
 - [Milestones](#milestones)
@@ -141,7 +141,7 @@ The results will display the overall tone (e.g., Happy, Sad, Positive) and corre
 
 Here's a draft for the "Introductory Emotion & Sentiment Analysis Files" section:
 
-**Introductory Emotion & Sentiment Analysis Files**
+**Introductory Emotion and Sentiment Analysis Files**
 For users interested in understanding the foundational steps of this project, we've included two introductory files that demonstrate basic techniques in text processing, emotion analysis, and sentiment analysis. These files are excellent starting points for those looking to build from scratch.
 
 ## Basic_Emotion_Analysis.py
