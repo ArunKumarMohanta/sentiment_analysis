@@ -136,7 +136,7 @@ MAIN_APP.py
 The results will display the overall tone (e.g., Happy, Sad, Positive) and corresponding graphs for both creators and viewers.
 
 
-## Introductory Emotion & Sentiment Analysis Files
+## Introductory Emotion and Sentiment Analysis Files
 
 
 Here's a draft for the "Introductory Emotion & Sentiment Analysis Files" section:
