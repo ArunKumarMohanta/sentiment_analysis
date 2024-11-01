@@ -16,7 +16,7 @@ This project analyzes the sentiments and emotions of both content creators and v
   
    1.[Basic_Emotion_Analysis.py](#basic_emotion_analysis)
   
-   2.[Emotion_and_Sentiment_Analysis](#emotion_and_sentiment_analysis)
+   2.[Emotion_and_Sentiment_Analysis.py](#emotion_and_sentiment_analysis)
 
 - [Project Structure](#project-structure)
 - [Screenshots](#screenshots)
@@ -145,7 +145,9 @@ Here's a draft for the "Introductory Emotion & Sentiment Analysis Files" section
 For users interested in understanding the foundational steps of this project, we've included two introductory files that demonstrate basic techniques in text processing, emotion analysis, and sentiment analysis. These files are excellent starting points for those looking to build from scratch.
 
 ## Basic_Emotion_Analysis
+
 **Basic_Emotion_Analysis.py**
+
 This file provides a simple, step-by-step approach to:
 
 **Text cleaning**: Lowercasing, removing punctuation, and tokenizing words.
@@ -155,7 +157,9 @@ Visualization: Creating a bar graph to visualize the frequency of each detected 
 It is a good entry point to understand how to clean and analyze text data for emotional content.
 
 ## Emotion_and_Sentiment_Analysis
+
 **Emotion_and_Sentiment_Analysis.py**
+
 Building on the first file, this version adds more advanced steps:
 
 **Lemmatization**: Reducing words to their base forms (e.g., "better" to "good").
