@@ -75,6 +75,7 @@ The YouTube Emotion Analyzer is a tool designed to extract and analyze emotions 
 
 4. **Download NLTK resources**:  
    Open a Python shell and run the following:
+   
    import nltk
    
    nltk.download('vader_lexicon')
@@ -84,7 +85,7 @@ The YouTube Emotion Analyzer is a tool designed to extract and analyze emotions 
    nltk.download('wordnet')
    
    nltk.download('stopwords')
-5. **Run the project:**
+6. **Run the project:**
    
    MAIN_APP.py
 
